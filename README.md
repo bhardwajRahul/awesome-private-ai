@@ -95,6 +95,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 - [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
+- [MFS](https://github.com/zilliztech/mfs) - Exposes your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace for agents (`ls`/`cat`/`grep` + semantic search); runs fully local with on-device ONNX embeddings on Milvus, no API key.
 
 
 ## VS Code Plugins & Extensions
