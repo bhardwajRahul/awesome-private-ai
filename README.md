@@ -43,6 +43,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.
 - [YALS (Yet another llamacpp server)](https://gtihub.com/theroyallab/YALS) - TabbyAPI's sister project, adapted for llama.cpp and GGUF models. Built from the ground up using libllama instead of wrapping llama-server.
 - [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server).
+- [oMLX](https://github.com/jundot/omlx) - macOS-native MLX inference server with paged SSD KV caching and continuous batching. Serves LLM, VLM, embedding, and reranker models over OpenAI- and Anthropic-compatible endpoints for local coding agents on Apple Silicon.
 
 
 ## Model Management & Serving
