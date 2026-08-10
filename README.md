@@ -127,6 +127,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
 - [MFS](https://github.com/zilliztech/mfs) - Exposes your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace for agents (`ls`/`cat`/`grep` + semantic search); runs fully local with on-device ONNX embeddings on Milvus, no API key.
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Open agentic coding framework that turns papers and specs into working code (Paper2Code, Text2Web, Text2Backend), running against local Ollama or vLLM backends.
+- [Skales](https://github.com/skalesapp/skales) - Source-available (BSL 1.1) local-first desktop AI agent that runs fully on-device, offline via Ollama or with 15+ providers; your files never leave your machine, no cloud required.
 
 
 ## VS Code Plugins & Extensions
