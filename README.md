@@ -236,6 +236,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Centralized routers and proxy layers for aggregating, governing, and securing your private AI stack. These tools simplify connections to multiple model servers, optimize LLM routing, and provide observability, security, and compliance.
 
 - [Nexus](https://github.com/grafbase/nexus) - Open-source AI router to aggregate Model Context Protocol (MCP) servers, intelligently route requests to the best LLMs, and provide security, governance, observability, and simplified architecture for private AI deployments. [Blog](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
+- [Bifrost](https://github.com/maximhq/bifrost) - Self-hosted, open-source AI gateway for multi-provider routing, failover, observability, guardrails, and budget controls.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Self-hosted proxy exposing 100+ model backends — including Ollama, vLLM, and any OpenAI-compatible server — behind one API, with keys, budgets, routing, and logging.
 
 
